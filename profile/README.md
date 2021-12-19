@@ -1,3 +1,3 @@
-<img src="fall.gif">
+<img src="./fall.gif">
 
 Follow us in the mirror space
